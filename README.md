@@ -1,1 +1,1 @@
-# tinkoff-golang
+# TFS20s Golang, Москва
