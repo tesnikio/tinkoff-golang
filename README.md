@@ -1,1 +1,1 @@
-# TFS20s Golang, Москва
+# TFS20s Golang Stream homework solution.
